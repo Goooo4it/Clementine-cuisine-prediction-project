@@ -26,7 +26,7 @@ Cuisines vary significantly across the countries. One of the key characteristics
 
 
 <p align="center">
-      <img width="525" height="300" src="cuisine_embedding.png">
+      <img width="500" height="300" src="cuisine_embedding.png">
   </a>
 </p>
 
@@ -44,4 +44,4 @@ Identifying cuisines using raw ingredients will be valuable to companies that bu
 
 ## Slides
 
-
+Additional information can be found in our presentation slides at https://docs.google.com/presentation/d/1rQVuPna01ftV61t4Rf2TF07l0IDETDBjaMrvKBboQlw/edit?usp=sharing
