@@ -13,6 +13,13 @@ Cuisines vary significantly across the countries. One of the key characteristics
 
 ## Table of contents
 
+  - [Process](#process)
+  - [Results](#results)
+  - [Value](#value)
+  - [Future Work](#future-work)
+  - [Slides](#slides)
+
+
 ## Process
 
 1. Uniformization. Refine the texts in the set of ingredients. Make them lowercase and reduce redundant empty space.
@@ -23,6 +30,8 @@ Cuisines vary significantly across the countries. One of the key characteristics
 
 
 ## Results
+
+Add the Accuaracy Table. 
 
 
 <p align="center">
