@@ -31,7 +31,12 @@ Cuisines vary significantly across the countries. One of the key characteristics
 
 ## Results
 
-Add the Accuaracy Table. 
+We evaluate our models by using the accuracy on validation set:
+
+<p align="center">
+      <img width="500" height="300" src="result.png">
+  </a>
+</p>
 
 
 <p align="center">
